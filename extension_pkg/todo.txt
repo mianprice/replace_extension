@@ -1,0 +1,5 @@
+@@@ => MUST BE REPLACED
+
+Find Icon (square, [16,24,32,48,128])
+
+Create HTML for popup on click (where "Add rule" logic will be editable later on)
